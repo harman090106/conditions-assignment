@@ -1,0 +1,11 @@
+//q1.
+Output is 0
+
+//q2.
+Output is 1 1
+
+//q3.
+Output is 2 
+
+//q6.
+Output is 49
